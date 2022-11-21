@@ -1,0 +1,54 @@
+.card-group .card:hover {
+  cursor: pointer;  
+  color: blue;
+}
+
+
+
+
+.title-text{
+    justify-items: center;
+    align-items: center;
+    font-size: 30px;
+  }
+
+  .list-unstyled div{
+    margin-top: 10px;
+    
+  }
+  
+
+/* .list-unstyled{
+    display: grid;
+    grid-area: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-areas: 
+    "satu empat tujuh"
+    "dua lima delapan"
+    "tiga enam";
+}
+
+#satu {
+    grid-area: satu;
+}
+#dua {
+    grid-area: dua;
+}
+#tiga {
+    grid-area: tiga;
+}
+#empat {
+    grid-area: empat;
+}
+#lima {
+    grid-area: lima;
+}
+#enam {
+    grid-area: enam;
+}
+#tujuh {
+    grid-area: tujuh;
+}
+#delapan {
+    grid-area: delapan;
+} */
