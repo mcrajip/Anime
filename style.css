@@ -69,9 +69,9 @@
         height: 50%;
     
     }
-    .container-fluid{
-        width: fit-content;
-    }
+   .card img {
+    width: 20%;
+   }
     .text-inbox {
         display: flex;
         justify-content: center;
